@@ -1,0 +1,22 @@
+Crear clase cliente enderezo factura principal(main) clase operaciones y funciones abrir y cerrar conexion 4 puntos
+Añadir nuevo cliente pasando un objeto cliente
+Modificar cliente a través de un objeto cliente,le pasas un cliente y le pillas el id
+Eliminar cliente
+Listar todas las facturas
+-hasta aquí 4 puntos-
+
+
+Mostrar cliente con la factura más alta
+A cuantos clientes tiene que enviar facturas dada una calle
+Listar facturas sin iva
+Listado de facturas dado un dni
+
+--Procedimientos--
+pasado un dni, devolver las facturas de ese cliente
+-hasta aquí 5 puntos-
+
+--metadatos--
+Pasado un esquema y una tabla, devolver la información similar a ejercicio 4 empresa
+-hasta aquí 1 punto-
+
+
